@@ -2,7 +2,7 @@
 
 This repository collects tutorials of differentially private convex optimization. 
 
-The tutorials are, by large, based on the theory and applications from the following preprint
+These tutorials are, by large, based on the theory and applications from the following preprint
 
 *Privacy-Preserving Convex Optimization: When Differential Privacy Meets Stochastic Programming* 
 
