@@ -10,6 +10,32 @@ by Vladimir Dvorkin, Ferdinando Fioretto, Pascal Van Hentenryck, Pierre Pinson a
 
 ## Preventing data leakage in convex optimization
 
+
+
+<div class="row justify-content-center">
+
+<div class="col-9 col-lg-3">
+
+  <div class="row justify-content-left" style="margin-left:0.25cm">
+
+  <div class="img-with-text">
+  <img src="[avatars/mathieu.jpg](https://user-images.githubusercontent.com/31773955/184557633-4285460b-2437-4159-a38c-4891b268e62a.gif)" width="350" class="center">
+
+  <p>
+  <div class="portrait-title">
+  <h4>Johanna Mathieu</h4>
+  <h3>University of Michigan</h3>
+  <h3 style="margin-top:0.0cm;">March 11</h3>   
+  </div> 
+  </p> 
+
+  </div>
+  </div>
+
+</div>
+</div>
+
+
 <p float="left">
   <img src="https://user-images.githubusercontent.com/31773955/184557633-4285460b-2437-4159-a38c-4891b268e62a.gif" width="350" />  
   <em>image_caption</em>
