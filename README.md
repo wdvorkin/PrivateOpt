@@ -9,7 +9,7 @@ by Vladimir Dvorkin, Ferdinando Fioretto, Pascal Van Hentenryck, Pierre Pinson a
 ***
 
 <p float="left">
-  <img src="/img1.png" width="100" />
+  <img src=https://user-images.githubusercontent.com/31773955/184557598-cc8520e7-8603-4d1e-9704-1e964aae3efa.png width="100" />
   <img src="/img2.png" width="100" /> 
   <img src="/img3.png" width="100" />
 </p>
