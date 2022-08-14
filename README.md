@@ -4,5 +4,5 @@ This repository collects tutorials and case studies of differentially private co
 
 [*Privacy-Preserving Convex Optimization: When Differential Privacy Meets Stochastic Programming*]()
 
-by Vladimir Dvorkin, Ferdinando Fioretto, Pascal Van Hentenryck, Pierre Pinson and Jalal Kazempour, submitted to the XXX journal. 
+by Vladimir Dvorkin, Ferdinando Fioretto, Pascal Van Hentenryck, Pierre Pinson and Jalal Kazempour. 
 
