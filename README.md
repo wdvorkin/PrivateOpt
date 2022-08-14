@@ -9,10 +9,10 @@ by Vladimir Dvorkin, Ferdinando Fioretto, Pascal Van Hentenryck, Pierre Pinson a
 ***
 
 
-![anim_quadratic_programming](https://user-images.githubusercontent.com/31773955/184557633-4285460b-2437-4159-a38c-4891b268e62a.gif)
+
 
 <p float="left">
-  <img src=https://user-images.githubusercontent.com/31773955/184557598-cc8520e7-8603-4d1e-9704-1e964aae3efa.png width="100" />
+  <img ![anim_quadratic_programming](https://user-images.githubusercontent.com/31773955/184557633-4285460b-2437-4159-a38c-4891b268e62a.gif) width="100" />
   <img src="/img2.png" width="100" /> 
   <img src="/img3.png" width="100" />
 </p>
