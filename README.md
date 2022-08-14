@@ -27,14 +27,13 @@ by Vladimir Dvorkin, Ferdinando Fioretto, Pascal Van Hentenryck, Pierre Pinson a
   <tbody>
   <tr width="600px">
       <td>
-
-
-</td>
-<td>
-
-
-</td>
-</tr>
-
+        <p float="left">
+          <img src="https://user-images.githubusercontent.com/31773955/184557633-4285460b-2437-4159-a38c-4891b268e62a.gif" width="350" 
+        </p>
+      </td>
+      <td>
+        Description
+      </td>
+  </tr>
   </tbody>
 </table>
