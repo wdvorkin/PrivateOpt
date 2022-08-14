@@ -14,21 +14,29 @@ by Vladimir Dvorkin, Ferdinando Fioretto, Pascal Van Hentenryck, Pierre Pinson a
 
 <div class="row justify-content-center">
 
-<div class="col-9 col-lg-3">
+<div class="col-6 col-lg-3">
 
   <div class="row justify-content-center" style="margin-left:0.25cm">
 
   <div class="img-with-text">
   <img src="https://user-images.githubusercontent.com/31773955/184557633-4285460b-2437-4159-a38c-4891b268e62a.gif" width="350" />
 
-  <p>
-  The optimal resource allocation is often at the boundary of the feasible region. The later is thus is directly exposed in the optimization results.  
-  </p> 
+  </div>
+  </div>
+
+</div>
+  
+<div class="col-6 col-lg-3">
+
+  <div class="row justify-content-center" style="margin-left:0.25cm">
+
+  The optimal resource allocation is often at the boundary of the feasible region. The later is thus is directly exposed in the optimization results. 
 
   </div>
   </div>
 
 </div>
+  
 </div>
 
 
