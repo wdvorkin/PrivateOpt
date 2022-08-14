@@ -14,7 +14,7 @@ by Vladimir Dvorkin, Ferdinando Fioretto, Pascal Van Hentenryck, Pierre Pinson a
 
 <div class="row justify-content-center">
 
-<div class="col-6 col-lg-3">
+<div class="col-9 col-lg-3">
 
   <div class="row justify-content-center" style="margin-left:0.25cm">
 
