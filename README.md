@@ -6,3 +6,4 @@ This repository collects tutorials and case studies of differentially private co
 
 by Vladimir Dvorkin, Ferdinando Fioretto, Pascal Van Hentenryck, Pierre Pinson and Jalal Kazempour. 
 
+***
