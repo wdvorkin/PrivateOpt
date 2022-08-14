@@ -25,6 +25,32 @@ by Vladimir Dvorkin, Ferdinando Fioretto, Pascal Van Hentenryck, Pierre Pinson a
 </div>
 
 
+
+
+<div style="-webkit-column-count: 2; -moz-column-count: 2; column-count: 2; -webkit-column-rule: 1px dotted #e0e0e0; -moz-column-rule: 1px dotted #e0e0e0; column-rule: 1px dotted #e0e0e0;">
+    <div style="display: inline-block;">
+        <h2>Good</h2>
+        <pre><code class="language-c">int foo (void) 
+{
+    int i;
+}
+</code></pre>
+    </div>
+    <div style="display: inline-block;">
+        <h2>Bad</h2>
+        <pre><code class="language-c">int foo (void) {
+    int i;
+}
+</code></pre>
+    </div>
+</div>
+
+
+
+
+
+
+
 <p float="left">
   <img src="https://user-images.githubusercontent.com/31773955/184557633-4285460b-2437-4159-a38c-4891b268e62a.gif" width="350" />  
   <img src="https://user-images.githubusercontent.com/31773955/184557705-11c922f0-59b8-4ad9-bb97-80e31e34f8ab.gif" width="350" /> 
