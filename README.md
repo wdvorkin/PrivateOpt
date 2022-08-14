@@ -22,7 +22,7 @@ by Vladimir Dvorkin, Ferdinando Fioretto, Pascal Van Hentenryck, Pierre Pinson a
   <img src="https://user-images.githubusercontent.com/31773955/184557633-4285460b-2437-4159-a38c-4891b268e62a.gif" width="350" />
 
   <p>
-  <h4>Johanna Mathieu</h4>
+  The optimal resource allocation is often at the boundary of the feasible region. The later is thus is directly exposed in the optimization results.  
   </p> 
 
   </div>
