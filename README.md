@@ -6,7 +6,7 @@ This repository collects tutorials and case studies of differentially private co
 
 by Vladimir Dvorkin, Ferdinando Fioretto, Pascal Van Hentenryck, Pierre Pinson and Jalal Kazempour. 
 
-Animations below depict how changes in optimization datasets leak through optimization results (model parameters, allocation costs, etc.) 
+Animations below depict how changes in optimization datasets leak through optimization results (model parameters, allocation costs, etc.), hence causing privacy risks for data owners. Differential privacy hides senstive data atributied by decoupling datasets from optimization outcomes. In this work, we 
 
 <table align="center">
     <tr>
