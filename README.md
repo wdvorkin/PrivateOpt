@@ -12,7 +12,7 @@ by Vladimir Dvorkin, Ferdinando Fioretto, Pascal Van Hentenryck, Pierre Pinson a
         resource allocation
         </td>
         <td align="center"><img src="https://user-images.githubusercontent.com/31773955/184557705-11c922f0-59b8-4ad9-bb97-80e31e34f8ab.gif">
-        support vector machines
+        SVM classification
         </td>
         <td align="center"><img src="https://user-images.githubusercontent.com/31773955/184562910-a5d42118-e2db-49f3-bc1f-b794787bb38e.gif">
         regression analysis
