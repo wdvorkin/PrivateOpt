@@ -6,6 +6,8 @@ This repository collects tutorials and case studies of differentially private co
 
 by Vladimir Dvorkin, Ferdinando Fioretto, Pascal Van Hentenryck, Pierre Pinson and Jalal Kazempour. 
 
+Animations below depict how changes in optimization datasets leak through optimization results (model parameters, allocation costs, etc.) 
+
 <table align="center">
     <tr>
         <td align="center"><img src="https://user-images.githubusercontent.com/31773955/184557633-4285460b-2437-4159-a38c-4891b268e62a.gif">
