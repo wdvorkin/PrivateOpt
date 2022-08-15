@@ -25,3 +25,6 @@ by Vladimir Dvorkin, Ferdinando Fioretto, Pascal Van Hentenryck, Pierre Pinson a
 
 ***
 
+## Installation 
+
+All models are implemented in Julia Language v.1.6 using [JuMP](https://github.com/jump-dev/JuMP.jl) modeling language for mathematical optimization and commercial [Mosek](https://github.com/MOSEK/Mosek.jl) optimization solver, which needs to be licensed (free for academic use). Make sure to active project environment using ```Project.toml``` and ```Manifest.toml``` appended to each Jupiter notebook (for tutorials) and Julia execution file (for application). 
