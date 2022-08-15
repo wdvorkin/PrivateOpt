@@ -25,4 +25,3 @@ by Vladimir Dvorkin, Ferdinando Fioretto, Pascal Van Hentenryck, Pierre Pinson a
 
 ***
 
-Overview 
