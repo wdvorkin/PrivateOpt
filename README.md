@@ -19,15 +19,11 @@ by Vladimir Dvorkin, Ferdinando Fioretto, Pascal Van Hentenryck, Pierre Pinson a
         <td align="center"><img src="https://user-images.githubusercontent.com/31773955/184557705-11c922f0-59b8-4ad9-bb97-80e31e34f8ab.gif">
         support vector machines
         </td>
-        <td align="center"><img src="https://user-images.githubusercontent.com/31773955/184557633-4285460b-2437-4159-a38c-4891b268e62a.gif">
+        <td align="center"><img src="https://user-images.githubusercontent.com/31773955/184562910-a5d42118-e2db-49f3-bc1f-b794787bb38e.gif">
         regression analysis
         </td>
-        <td align="center"><img src="https://user-images.githubusercontent.com/31773955/184557705-11c922f0-59b8-4ad9-bb97-80e31e34f8ab.gif">
+        <td align="center"><img src="https://user-images.githubusercontent.com/31773955/184562925-7d3a90d3-d134-4678-9ff2-b17857875233.gif">
         ellipsoid fitting
         </td>
     </tr>
 </table>
-
-
-
-
