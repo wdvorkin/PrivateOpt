@@ -14,16 +14,20 @@ by Vladimir Dvorkin, Ferdinando Fioretto, Pascal Van Hentenryck, Pierre Pinson a
 <table align="center">
     <tr>
         <td align="center"><img src="https://user-images.githubusercontent.com/31773955/184557633-4285460b-2437-4159-a38c-4891b268e62a.gif" alt="some text"></td>
-        <td align="center"> The optimal resource allocation discloses the boundary of the feasible set </td>
+        <td align="center"> The optimal resource allocation discloses <br> the boundary of the feasible set </td>
     </tr>
     <tr>
-        <td align="center">The maxumim-margine hyperplane of the support vector machines 
-            is unique with respect to the marginal data points </td>
+        <td align="center">
+            The maximum-margin hyperplane of the support vector <br> 
+            machines classifier is unique with respect to <br>  marginal 
+            data points </td>
         <td align="center"><img src="https://user-images.githubusercontent.com/31773955/184557705-11c922f0-59b8-4ad9-bb97-80e31e34f8ab.gif" alt="some text"></td>
     </tr>
     <tr>
         <td align="center"><img src="https://user-images.githubusercontent.com/31773955/184557774-5e2ca222-c164-49ca-a11d-d74c39a74126.gif" alt="some text"></td>
-        <td align="center">Some other text</td>
+        <td align="center">
+            The 
+        </td>
     </tr>
     <tr>
         <td align="center">Some other text 2</td>
