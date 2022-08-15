@@ -20,10 +20,6 @@ by Vladimir Dvorkin, Ferdinando Fioretto, Pascal Van Hentenryck, Pierre Pinson a
   Fig.1 - 4K Mountains Wallpaper
 </p>
 
-</p>
-<p align = "center">
-Fig.1 - 4K Mountains Wallpaper
-</p>
 
 <p float="center">
   <img src="https://user-images.githubusercontent.com/31773955/184557705-11c922f0-59b8-4ad9-bb97-80e31e34f8ab.gif" width="350" /> 
