@@ -1,0 +1,21 @@
+name = "PrivateOpt"
+uuid = "fdaf1c18-b9cb-427b-8eb0-8b06c2582cee"
+authors = ["vladimirdvorkin"]
+version = "0.1.0"
+
+[deps]
+CDDLib = "3391f64e-dcde-5f30-b752-e11513730f60"
+Calculus = "49dc2e85-a5d0-5ad3-a950-438e2897f1b9"
+DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
+Distributions = "31c24e10-a181-5473-b8eb-7969acd0382f"
+JSON = "682c06a0-de6a-54ab-a142-c8b1cf79cde6"
+JuMP = "4076af6c-e467-56ae-b986-b466b2749572"
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
+Mosek = "6405355b-0ac2-5fba-af84-adbd65488c0e"
+MosekTools = "1ec41992-ff65-5c91-ac43-2df89e9693a4"
+Plots = "91a5bcdd-55d7-5caf-9e0b-520d859cae80"
+Polyhedra = "67491407-f73d-577b-9b50-8179a7c68029"
+PowerModels = "c36e90e8-916a-50a6-bd94-075b64ef4655"
+Random = "9a3f8284-a2c9-5f02-9a11-845980a1fd5c"
+SparseArrays = "2f01184e-e22b-5df5-ae63-d93ebab69eaf"
+Statistics = "10745b16-79ce-11e8-11f9-7d13ad32a3b2"
