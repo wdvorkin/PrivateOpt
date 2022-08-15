@@ -17,7 +17,7 @@ by Vladimir Dvorkin, Ferdinando Fioretto, Pascal Van Hentenryck, Pierre Pinson a
         <td align="center"> The optimal resource allocation discloses the boundary of the feasible set </td>
     </tr>
     <tr>
-        <td align="center">Some other text 2</td>
+        <td align="center">The maxumim-margine hyperplane of the support vector machines is unique with respect to the marginal data points </td>
         <td align="center"><img src="https://user-images.githubusercontent.com/31773955/184557705-11c922f0-59b8-4ad9-bb97-80e31e34f8ab.gif" alt="some text"></td>
     </tr>
     <tr>
