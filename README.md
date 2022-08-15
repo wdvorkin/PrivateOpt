@@ -11,29 +11,6 @@ by Vladimir Dvorkin, Ferdinando Fioretto, Pascal Van Hentenryck, Pierre Pinson a
 ## Preventing data leakage in convex optimization
 
 
-<script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
-
-
-
-
-<div class="row justify-content-center">
-
-  <div class="col-9 col-lg-3">
-    test sentence left
-  </div>
-  
-  <div class="col-6 col-lg-3">
-    test sentence right
-  </div>
-  
-</div>
-
-
-
-
-
-
-
 
 
 
