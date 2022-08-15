@@ -14,7 +14,7 @@ by Vladimir Dvorkin, Ferdinando Fioretto, Pascal Van Hentenryck, Pierre Pinson a
 <table align="center">
     <tr>
         <td align="center"><img src="https://user-images.githubusercontent.com/31773955/184557633-4285460b-2437-4159-a38c-4891b268e62a.gif" alt="some text"></td>
-        <td align="center">Some other text</td>
+        <td align="center"> The optimal resource allocation discloses the boundary of the feasible set </td>
     </tr>
     <tr>
         <td align="center">Some other text 2</td>
