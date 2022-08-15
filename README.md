@@ -26,11 +26,11 @@ by Vladimir Dvorkin, Ferdinando Fioretto, Pascal Van Hentenryck, Pierre Pinson a
     <tr>
         <td align="center"><img src="https://user-images.githubusercontent.com/31773955/184557774-5e2ca222-c164-49ca-a11d-d74c39a74126.gif" alt="some text"></td>
         <td align="center">
-            The 
+            The optimal regression model is unique on a training dataset, disclosing agent participation in a dataset
         </td>
     </tr>
     <tr>
-        <td align="center">Some other text 2</td>
+        <td align="center">The optimal inscribed ellipsoid is unique on a particular polyhedral set, discussing its characteristics</td>
         <td align="center"><img src="https://user-images.githubusercontent.com/31773955/184557785-405b2ad4-675f-4ef1-aedb-4f554b9c3658.gif" alt="some text"></td>
     </tr>
 </table>
