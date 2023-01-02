@@ -2,7 +2,7 @@
 
 This repository collects tutorials and case studies of differentially private convex optimization. The materials are based on the theory and applications from the following preprint:
 
-[*Privacy-Preserving Convex Optimization: When Differential Privacy Meets Stochastic Programming*]()
+[*Privacy-Preserving Convex Optimization: When Differential Privacy Meets Stochastic Programming*](https://arxiv.org/pdf/2209.14152.pdf)
 
 by Vladimir Dvorkin, Ferdinando Fioretto, Pascal Van Hentenryck, Pierre Pinson and Jalal Kazempour. 
 
