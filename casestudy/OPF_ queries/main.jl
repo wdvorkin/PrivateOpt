@@ -8,7 +8,6 @@ using Statistics, LinearAlgebra, Distributions, Random
 using JuMP, Mosek, MosekTools
 using Plots, DataFrames
 
-
 # auxiliary functions
 ns(l) = Int(net[:n_s][l])
 
