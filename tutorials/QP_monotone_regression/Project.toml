@@ -2,7 +2,7 @@ name = "PrivateOpt"
 uuid = "fdaf1c18-b9cb-427b-8eb0-8b06c2582cee"
 authors = ["vladimirdvorkin"]
 version = "0.1.0"
-
+ 
 [deps]
 CDDLib = "3391f64e-dcde-5f30-b752-e11513730f60"
 Calculus = "49dc2e85-a5d0-5ad3-a950-438e2897f1b9"
